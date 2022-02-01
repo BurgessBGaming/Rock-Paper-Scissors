@@ -192,7 +192,7 @@ def end():
         game = 0
 
     #Full Game End
-    if round_var == 5:
+    elif round_var == 5:
         print("Well that's it. I guess we'll tally up the score.")
         time.sleep(2)
         print("Let's see here...")
