@@ -1,4 +1,4 @@
-# Welcome to the Rock Paper Scissors Tournament! 
+Welcome to the Rock Paper Scissors Tournament! 
 
 You are an entry to take on a computer player in a simple game of Rock Paper Scissors!
 Think critically about your chances, and be careful. Remember, your opponent is an AI; you may never be able to tell what it'll do next.
