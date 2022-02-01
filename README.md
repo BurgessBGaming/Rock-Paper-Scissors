@@ -14,4 +14,4 @@ Also, if you need to know what beats what:
      /           \ 
     /             \ 
    v               \
- Scissors - - - > Paper
+ Scissors - - - - > Paper
