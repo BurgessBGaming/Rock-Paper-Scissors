@@ -8,11 +8,11 @@ Good luck, have fun, and enjoy!
 
 Also, if you need to know what beats what:
          
-          Rock
-        /     ^
-       /       \
-      /         \ 
-     /           \ 
-    /             \ 
-   v               \
-Scissors - - - > Paper
+#          Rock
+#        /     ^
+#       /       \
+#      /         \ 
+#     /           \ 
+#    /             \ 
+#   v               \
+# Scissors - - - > Paper
